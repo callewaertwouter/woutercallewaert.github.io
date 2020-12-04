@@ -1,0 +1,80 @@
+    {
+        "Muscle From Definitely Not Brussels": [
+            {
+                "name": "Dodge Challenger",
+                "price": "25.99 EUR",
+                "picture": [
+                    "dodgechallenger.jpg",
+                    "docha.jpg"
+                ]
+            },
+            {
+                "name": "Ford Mustang",
+                "price": "20.99 EUR",
+                "picture": [
+                    "fordmustang.jpg",
+                    "fomu.jpg"
+                ]
+            },
+            {
+                "name": "Pontiac Firebird",
+                "price": "19.99 EUR",
+                "picture": [
+                    "pontiacfirebird.jpg",
+                    "pofi.jpg"
+                ]
+            }
+        ],
+        "Maximum Pleb-mode": [
+            {
+                "name": "Ford Mondeo",
+                "price": "20.99 EUR",
+                "picture": [
+                    "fordmondeo.jpg",
+                    "fomo.jpg"
+                ]
+            },
+            {
+                "name": "Opel Astra",
+                "price": "22.99 EUR",
+                "picture": [
+                    "opelastra.jpg",
+                    "opas.jpg"
+                ]
+            },
+            {
+                "name": "Peugeot 205",
+                "price": "15.99 EUR",
+                "picture": [
+                    "peugeot205.jpg",
+                    "peugeot.jpg"
+                ]
+            }
+        ],
+        "Indicators Optional": [
+            {
+                "name": "BMW I8",
+                "price": "30.99 EUR",
+                "picture": [
+                    "bmwi8.jpg",
+                    "bmw.jpg"
+                ]
+            },
+            {
+                "name": "Audi A8",
+                "price": "24.99 EUR",
+                "picture": [
+                    "audia8.jpg",
+                    "audi.jpg"
+                ]
+            },
+            {
+                "name": "Volvo S80",
+                "price": "20.99 EUR",
+                "picture": [
+                    "volvos80.jpg",
+                    "volvo.jpg"
+                ]
+            }
+        ]
+    }
